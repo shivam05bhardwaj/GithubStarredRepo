@@ -16,7 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Screens.Login.MainActivity">
+        <activity android:name=".Screens.Login.SignInActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
